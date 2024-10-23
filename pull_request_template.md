@@ -38,8 +38,6 @@ order in which to review the files. Recommend where to start and how to proceed 
 _Links to any additional context such as tracking issues/cards, previous or related PRs, slack conversations,
 and updated/new documentation related to this PR_
 
-- https://aiera-inc.slack.com/archives/C07N32B6GLU/p1729693417655269
-
 
 
 
